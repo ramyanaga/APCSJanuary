@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Player()
+comment1.params=
+comment1.target=int\ getPosition()
+comment2.params=newPosition
+comment2.target=void\ setPosition(int)
+comment3.params=dieNumbStr\ other
+comment3.target=void\ movePosition(java.lang.String,\ Player)
+comment4.params=
+comment4.target=java.lang.String\ finalPosition()
+numComments=5
